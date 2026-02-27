@@ -1,0 +1,501 @@
+Order ID,Total Sales,Profit,Quantity,Category,Sub-Category,PaymentMode,Order Date,CustomerName,State,City,Month,Year,Is_Profitable
+M-10000,1096,658,7,Electronics,Electronic Games,Paiement à la livraison,2018-03-10,Sara,Rabat-Salé-Kénitra,Kénitra,March,2018,True
+M-10001,5729,64,14,Furniture,Chairs,Paiement en plusieurs fois,2018-02-03,Nadia,Marrakech-Safi,Marrakech,February,2018,True
+M-10002,2927,146,8,Furniture,Bookcases,Paiement en plusieurs fois,2018-01-24,Mohamed,Casablanca-Settat,Mohammedia,January,2018,True
+M-10003,2847,712,8,Electronics,Printers,Carte bancaire,2018-12-27,Omar,Béni Mellal-Khénifra,Khénifra,December,2018,True
+M-10004,2617,1151,4,Electronics,Phones,Carte bancaire,2018-08-21,Fatima,Casablanca-Settat,Casablanca,August,2018,True
+M-10005,2244,247,4,Clothing,Trousers,Carte bancaire,2018-01-21,Hassan,Rabat-Salé-Kénitra,Salé,January,2018,True
+M-10006,275,-275,4,Clothing,Saree,Paiement à la livraison,2018-01-16,Amina,Fès-Meknès,Taza,January,2018,False
+M-10007,387,-213,5,Clothing,Saree,Virement bancaire,2018-03-27,Omar,Casablanca-Settat,Berrechid,March,2018,False
+M-10008,50,-44,2,Clothing,Hankerchief,Virement bancaire,2018-10-01,Hassan,Rabat-Salé-Kénitra,Kénitra,October,2018,False
+M-10009,135,-54,5,Clothing,Kurti,Paiement à la livraison,2018-04-01,Mustapha,Rabat-Salé-Kénitra,Kénitra,April,2018,False
+M-10010,231,-190,9,Clothing,Hankerchief,Paiement à la livraison,2018-11-13,Khadija,Marrakech-Safi,Essaouira,November,2018,False
+M-10011,2125,-234,6,Electronics,Printers,Paiement en plusieurs fois,2018-01-21,Ahmed,Marrakech-Safi,Safi,January,2018,False
+M-10012,3873,-891,6,Electronics,Phones,Carte bancaire,2018-03-30,Zineb,Souss-Massa,Tiznit,March,2018,False
+M-10013,729,-492,5,Furniture,Bookcases,Virement bancaire,2018-02-04,Khadija,Tanger-Tétouan-Al Hoceima,Al Hoceima,February,2018,False
+M-10014,2188,1050,5,Furniture,Bookcases,Carte bancaire,2018-11-25,Laila,Tanger-Tétouan-Al Hoceima,Al Hoceima,November,2018,True
+M-10015,6,-3,1,Clothing,Hankerchief,Virement bancaire,2018-08-25,Nadia,Casablanca-Settat,Mohammedia,August,2018,False
+M-10016,1854,433,5,Furniture,Bookcases,Carte bancaire,2018-12-01,Youssef,Fès-Meknès,Fès,December,2018,True
+M-10017,6,1,1,Clothing,Kurti,Virement bancaire,2018-10-18,Youssef,Casablanca-Settat,Casablanca,October,2018,True
+M-10018,2093,721,5,Furniture,Chairs,Carte bancaire,2018-11-08,Laila,Tanger-Tétouan-Al Hoceima,Tanger,November,2018,True
+M-10019,7,-1,2,Clothing,Skirt,Virement bancaire,2018-11-15,Zineb,Rabat-Salé-Kénitra,Rabat,November,2018,False
+M-10020,1622,-624,5,Furniture,Tables,Carte bancaire,2018-10-26,Karim,Béni Mellal-Khénifra,Khénifra,October,2018,False
+M-10021,1622,95,5,Electronics,Printers,Carte bancaire,2018-09-19,Omar,Casablanca-Settat,Mohammedia,September,2018,True
+M-10022,373,254,6,Electronics,Printers,Virement bancaire,2018-06-11,Mustapha,Souss-Massa,Inezgane,June,2018,True
+M-10023,82,-33,4,Clothing,Kurti,Paiement à la livraison,2018-02-18,Youssef,Casablanca-Settat,Berrechid,February,2018,False
+M-10024,8,2,2,Clothing,Skirt,Virement bancaire,2018-02-08,Rachid,Fès-Meknès,Meknès,February,2018,True
+M-10025,1954,782,3,Electronics,Phones,Carte bancaire,2018-08-19,Khadija,Fès-Meknès,Meknès,August,2018,True
+M-10026,1543,370,8,Electronics,Printers,Carte bancaire,2018-12-10,Zineb,Marrakech-Safi,Essaouira,December,2018,True
+M-10027,1506,-266,6,Electronics,Printers,Carte bancaire,2018-01-04,Mustapha,Casablanca-Settat,Berrechid,January,2018,False
+M-10028,1829,-56,6,Furniture,Tables,Carte bancaire,2018-09-30,Laila,Marrakech-Safi,Safi,September,2018,False
+M-10029,9,-1,3,Clothing,Skirt,Virement bancaire,2018-04-27,Salma,Rabat-Salé-Kénitra,Rabat,April,2018,False
+M-10030,1461,202,5,Furniture,Tables,Paiement en plusieurs fois,2018-06-04,Laila,Rabat-Salé-Kénitra,Rabat,June,2018,True
+M-10031,391,113,8,Clothing,Stole,Paiement à la livraison,2018-12-13,Sara,Béni Mellal-Khénifra,Kasba Tadla,December,2018,True
+M-10032,1824,1303,8,Electronics,Phones,Carte bancaire,2018-12-14,Hassan,Marrakech-Safi,Safi,December,2018,True
+M-10033,16,-15,4,Clothing,Hankerchief,Virement bancaire,2018-01-13,Nadia,Rabat-Salé-Kénitra,Kénitra,January,2018,False
+M-10034,1745,122,2,Furniture,Tables,Carte bancaire,2018-04-12,Karim,Béni Mellal-Khénifra,Kasba Tadla,April,2018,True
+M-10035,663,-212,5,Electronics,Printers,Virement bancaire,2018-12-23,Karim,Casablanca-Settat,Mohammedia,December,2018,False
+M-10036,10,-1,1,Clothing,Leggings,Virement bancaire,2018-09-01,Amina,Fès-Meknès,Fès,September,2018,False
+M-10037,1630,802,5,Furniture,Tables,Paiement en plusieurs fois,2018-04-24,Hassan,Fès-Meknès,Meknès,April,2018,True
+M-10038,12,0,2,Clothing,Hankerchief,Virement bancaire,2018-07-22,Youssef,Rabat-Salé-Kénitra,Rabat,July,2018,False
+M-10039,12,-7,2,Clothing,Leggings,Virement bancaire,2018-01-09,Mustapha,Béni Mellal-Khénifra,Béni Mellal,January,2018,False
+M-10040,1709,564,3,Clothing,Trousers,Carte bancaire,2018-11-02,Rachid,Fès-Meknès,Fès,November,2018,True
+M-10041,12,3,1,Clothing,Stole,Virement bancaire,2018-03-21,Salma,Marrakech-Safi,Essaouira,March,2018,True
+M-10042,1625,-77,3,Electronics,Phones,Paiement en plusieurs fois,2018-09-11,Nadia,Casablanca-Settat,Berrechid,September,2018,False
+M-10043,13,5,2,Clothing,Hankerchief,Virement bancaire,2018-07-12,Laila,Tanger-Tétouan-Al Hoceima,Tanger,July,2018,True
+M-10044,1361,980,3,Furniture,Tables,Paiement à la livraison,2018-03-26,Fatima,Marrakech-Safi,Safi,March,2018,True
+M-10045,1622,-448,3,Electronics,Phones,Paiement en plusieurs fois,2018-03-04,Ahmed,Casablanca-Settat,Mohammedia,March,2018,False
+M-10046,1547,340,6,Electronics,Accessories,Paiement en plusieurs fois,2018-09-24,Nadia,Marrakech-Safi,Marrakech,September,2018,True
+M-10047,1657,460,4,Furniture,Chairs,Carte bancaire,2018-05-11,Mohamed,Tanger-Tétouan-Al Hoceima,Al Hoceima,May,2018,True
+M-10048,1603,0,9,Clothing,Saree,Carte bancaire,2018-04-08,Ahmed,Tanger-Tétouan-Al Hoceima,Al Hoceima,April,2018,False
+M-10049,1549,-439,4,Electronics,Phones,Carte bancaire,2018-08-14,Khadija,Marrakech-Safi,Safi,August,2018,False
+M-10050,1183,106,4,Electronics,Printers,Paiement en plusieurs fois,2018-09-12,Fatima,Souss-Massa,Inezgane,September,2018,True
+M-10051,74,-123,8,Clothing,Skirt,Virement bancaire,2018-04-03,Laila,Casablanca-Settat,Berrechid,April,2018,False
+M-10052,1499,239,13,Clothing,Saree,Carte bancaire,2018-03-07,Salma,Béni Mellal-Khénifra,Béni Mellal,March,2018,True
+M-10053,1120,199,6,Clothing,Saree,Paiement en plusieurs fois,2018-05-08,Mohamed,Souss-Massa,Agadir,May,2018,True
+M-10054,15,-2,1,Clothing,T-shirt,Carte de débit,2018-11-08,Laila,Souss-Massa,Tiznit,November,2018,False
+M-10055,1487,624,3,Clothing,Trousers,Carte bancaire,2018-08-26,Karim,Casablanca-Settat,Casablanca,August,2018,True
+M-10056,1118,206,2,Furniture,Tables,Carte bancaire,2018-02-04,Nadia,Béni Mellal-Khénifra,Kasba Tadla,February,2018,True
+M-10057,11,-5,2,Clothing,Hankerchief,Paiement à la livraison,2018-01-02,Omar,Casablanca-Settat,Mohammedia,January,2018,False
+M-10058,15,4,1,Clothing,Hankerchief,Carte de débit,2018-02-09,Nadia,Rabat-Salé-Kénitra,Rabat,February,2018,True
+M-10059,1364,1864,5,Furniture,Tables,Carte bancaire,2018-06-22,Rachid,Casablanca-Settat,Mohammedia,June,2018,True
+M-10060,1337,147,7,Electronics,Printers,Carte bancaire,2018-10-29,Sara,Tanger-Tétouan-Al Hoceima,Tétouan,October,2018,True
+M-10061,15,2,1,Clothing,Leggings,Carte de débit,2018-04-01,Zineb,Tanger-Tétouan-Al Hoceima,Tanger,April,2018,True
+M-10062,322,-193,5,Electronics,Printers,Virement bancaire,2018-11-23,Ahmed,Rabat-Salé-Kénitra,Rabat,November,2018,False
+M-10063,1316,527,7,Electronics,Electronic Games,Carte bancaire,2018-02-20,Rachid,Marrakech-Safi,Essaouira,February,2018,True
+M-10064,1314,342,3,Furniture,Bookcases,Carte bancaire,2018-01-20,Omar,Casablanca-Settat,Casablanca,January,2018,True
+M-10065,17,7,3,Clothing,Hankerchief,Carte de débit,2018-06-01,Hassan,Rabat-Salé-Kénitra,Salé,June,2018,True
+M-10066,17,2,2,Clothing,Skirt,Carte de débit,2018-10-30,Hassan,Béni Mellal-Khénifra,Béni Mellal,October,2018,True
+M-10067,17,-12,5,Clothing,Skirt,Carte de débit,2018-12-04,Ahmed,Tanger-Tétouan-Al Hoceima,Tanger,December,2018,False
+M-10068,1308,536,3,Furniture,Bookcases,Carte bancaire,2018-12-29,Zineb,Casablanca-Settat,Mohammedia,December,2018,True
+M-10069,1076,-38,4,Electronics,Printers,Carte bancaire,2018-01-14,Zineb,Marrakech-Safi,Marrakech,January,2018,False
+M-10070,1301,573,5,Electronics,Accessories,Carte bancaire,2018-09-02,Sara,Fès-Meknès,Meknès,September,2018,True
+M-10071,1300,-16,8,Electronics,Printers,Carte bancaire,2018-01-18,Mustapha,Tanger-Tétouan-Al Hoceima,Tétouan,January,2018,False
+M-10072,11,-2,4,Clothing,Hankerchief,Paiement à la livraison,2018-07-22,Fatima,Béni Mellal-Khénifra,Khénifra,July,2018,False
+M-10073,1298,65,9,Electronics,Printers,Paiement en plusieurs fois,2018-11-24,Rachid,Marrakech-Safi,Essaouira,November,2018,True
+M-10074,304,97,6,Clothing,Stole,Virement bancaire,2018-03-16,Youssef,Casablanca-Settat,Casablanca,March,2018,True
+M-10075,1055,264,4,Electronics,Printers,Paiement en plusieurs fois,2018-10-10,Zineb,Souss-Massa,Tiznit,October,2018,True
+M-10076,17,-13,4,Clothing,Skirt,Carte de débit,2018-11-18,Omar,Marrakech-Safi,Safi,November,2018,False
+M-10077,147,73,3,Clothing,Stole,Paiement à la livraison,2018-02-19,Zineb,Rabat-Salé-Kénitra,Rabat,February,2018,True
+M-10078,965,-68,3,Electronics,Printers,Paiement à la livraison,2018-04-23,Zineb,Casablanca-Settat,Casablanca,April,2018,False
+M-10079,12,-2,3,Clothing,Hankerchief,Paiement à la livraison,2018-01-05,Hassan,Tanger-Tétouan-Al Hoceima,Tanger,January,2018,False
+M-10080,14,-2,3,Clothing,Hankerchief,Virement bancaire,2018-04-09,Fatima,Tanger-Tétouan-Al Hoceima,Al Hoceima,April,2018,False
+M-10081,934,-916,7,Electronics,Electronic Games,Paiement à la livraison,2018-09-10,Fatima,Marrakech-Safi,Essaouira,September,2018,False
+M-10082,929,-93,9,Clothing,Saree,Paiement à la livraison,2018-08-02,Salma,Marrakech-Safi,Safi,August,2018,False
+M-10083,18,3,2,Clothing,Hankerchief,Carte de débit,2018-01-27,Omar,Casablanca-Settat,Berrechid,January,2018,True
+M-10084,916,192,11,Electronics,Phones,Paiement à la livraison,2018-04-29,Laila,Marrakech-Safi,Marrakech,April,2018,True
+M-10085,76,-72,9,Clothing,Hankerchief,Paiement à la livraison,2018-07-22,Salma,Tanger-Tétouan-Al Hoceima,Tétouan,July,2018,False
+M-10086,869,67,4,Furniture,Tables,Paiement à la livraison,2018-08-13,Khadija,Souss-Massa,Agadir,August,2018,True
+M-10087,112,24,3,Clothing,Kurti,Paiement à la livraison,2018-05-23,Hassan,Tanger-Tétouan-Al Hoceima,Tanger,May,2018,True
+M-10088,39,16,6,Clothing,Skirt,Virement bancaire,2018-05-13,Sara,Béni Mellal-Khénifra,Khénifra,May,2018,True
+M-10089,857,-274,2,Furniture,Tables,Paiement à la livraison,2018-08-17,Laila,Marrakech-Safi,Safi,August,2018,False
+M-10090,828,230,2,Furniture,Chairs,Paiement à la livraison,2018-03-14,Laila,Marrakech-Safi,Safi,March,2018,True
+M-10091,1279,-640,8,Electronics,Printers,Paiement en plusieurs fois,2018-10-29,Nadia,Marrakech-Safi,Marrakech,October,2018,False
+M-10092,1250,486,7,Clothing,Saree,Paiement en plusieurs fois,2018-06-27,Ahmed,Souss-Massa,Agadir,June,2018,True
+M-10093,823,-18,7,Furniture,Chairs,Paiement à la livraison,2018-01-13,Nadia,Marrakech-Safi,Essaouira,January,2018,False
+M-10094,1157,-13,9,Furniture,Bookcases,Carte bancaire,2018-05-22,Ahmed,Tanger-Tétouan-Al Hoceima,Al Hoceima,May,2018,False
+M-10095,126,-63,3,Electronics,Accessories,Virement bancaire,2018-05-31,Nadia,Marrakech-Safi,Marrakech,May,2018,False
+M-10096,1145,-706,3,Electronics,Phones,Carte bancaire,2018-05-06,Fatima,Marrakech-Safi,Essaouira,May,2018,False
+M-10097,774,170,3,Electronics,Accessories,Paiement à la livraison,2018-01-31,Fatima,Casablanca-Settat,Mohammedia,January,2018,True
+M-10098,24,-1,2,Clothing,Hankerchief,Paiement à la livraison,2018-11-05,Rachid,Béni Mellal-Khénifra,Béni Mellal,November,2018,False
+M-10099,774,170,3,Electronics,Accessories,Paiement à la livraison,2018-12-07,Salma,Fès-Meknès,Taza,December,2018,True
+M-10100,93,-1,2,Clothing,Hankerchief,Paiement à la livraison,2018-10-10,Khadija,Rabat-Salé-Kénitra,Salé,October,2018,False
+M-10101,765,-36,3,Electronics,Electronic Games,Paiement à la livraison,2018-10-21,Mustapha,Casablanca-Settat,Casablanca,October,2018,False
+M-10102,762,101,6,Electronics,Printers,Paiement à la livraison,2018-01-14,Salma,Rabat-Salé-Kénitra,Salé,January,2018,True
+M-10103,761,266,9,Electronics,Electronic Games,Paiement à la livraison,2018-06-21,Nadia,Béni Mellal-Khénifra,Kasba Tadla,June,2018,True
+M-10104,96,-48,5,Clothing,Leggings,Virement bancaire,2018-04-26,Amina,Tanger-Tétouan-Al Hoceima,Tanger,April,2018,False
+M-10105,1137,-14,7,Electronics,Printers,Paiement en plusieurs fois,2018-08-11,Zineb,Casablanca-Settat,Casablanca,August,2018,False
+M-10106,18,8,2,Clothing,Hankerchief,Carte de débit,2018-12-10,Fatima,Tanger-Tétouan-Al Hoceima,Tétouan,December,2018,True
+M-10107,749,-307,7,Furniture,Furnishings,Paiement à la livraison,2018-11-07,Sara,Marrakech-Safi,Marrakech,November,2018,False
+M-10108,1120,199,6,Clothing,Saree,Paiement en plusieurs fois,2018-01-28,Salma,Souss-Massa,Tiznit,January,2018,True
+M-10109,744,119,6,Electronics,Printers,Paiement à la livraison,2018-12-08,Sara,Tanger-Tétouan-Al Hoceima,Tétouan,December,2018,True
+M-10110,14,0,4,Clothing,Hankerchief,Virement bancaire,2018-11-20,Rachid,Casablanca-Settat,Casablanca,November,2018,False
+M-10111,19,8,2,Clothing,Hankerchief,Carte de débit,2018-02-26,Mohamed,Marrakech-Safi,Essaouira,February,2018,True
+M-10112,512,-225,5,Clothing,Saree,Paiement à la livraison,2018-05-27,Khadija,Fès-Meknès,Fès,May,2018,False
+M-10113,742,198,2,Furniture,Bookcases,Paiement à la livraison,2018-03-31,Amina,Casablanca-Settat,Berrechid,March,2018,True
+M-10114,44,-40,3,Clothing,Stole,Paiement à la livraison,2018-05-07,Laila,Tanger-Tétouan-Al Hoceima,Al Hoceima,May,2018,False
+M-10115,1061,-36,8,Furniture,Bookcases,Paiement en plusieurs fois,2018-01-21,Khadija,Béni Mellal-Khénifra,Kasba Tadla,January,2018,False
+M-10116,19,-2,2,Clothing,Leggings,Carte de débit,2018-02-15,Karim,Rabat-Salé-Kénitra,Rabat,February,2018,False
+M-10117,17,0,1,Clothing,Hankerchief,Paiement à la livraison,2018-05-20,Ahmed,Marrakech-Safi,Safi,May,2018,False
+M-10118,741,267,5,Furniture,Bookcases,Paiement à la livraison,2018-02-22,Youssef,Tanger-Tétouan-Al Hoceima,Tétouan,February,2018,True
+M-10119,735,-235,6,Electronics,Printers,Paiement à la livraison,2018-03-08,Amina,Casablanca-Settat,Berrechid,March,2018,False
+M-10120,19,-1,1,Clothing,Shirt,Carte de débit,2018-02-05,Zineb,Béni Mellal-Khénifra,Béni Mellal,February,2018,False
+M-10121,1021,-48,4,Electronics,Electronic Games,Paiement en plusieurs fois,2018-09-14,Mustapha,Casablanca-Settat,Mohammedia,September,2018,False
+M-10122,556,-209,7,Clothing,Saree,Paiement à la livraison,2018-08-28,Omar,Casablanca-Settat,Berrechid,August,2018,False
+M-10123,63,-17,6,Clothing,Leggings,Paiement à la livraison,2018-10-05,Rachid,Casablanca-Settat,Mohammedia,October,2018,False
+M-10124,734,248,2,Furniture,Chairs,Paiement à la livraison,2018-01-11,Rachid,Marrakech-Safi,Marrakech,January,2018,True
+M-10125,933,166,5,Clothing,Saree,Carte bancaire,2018-03-26,Rachid,Béni Mellal-Khénifra,Khénifra,March,2018,True
+M-10126,20,-9,6,Clothing,Hankerchief,Carte de débit,2018-11-03,Nadia,Marrakech-Safi,Marrakech,November,2018,False
+M-10127,877,395,2,Furniture,Bookcases,Carte bancaire,2018-10-13,Khadija,Rabat-Salé-Kénitra,Rabat,October,2018,True
+M-10128,719,303,6,Furniture,Chairs,Paiement à la livraison,2018-01-13,Hassan,Souss-Massa,Inezgane,January,2018,True
+M-10129,12,1,2,Clothing,Hankerchief,Paiement à la livraison,2018-01-22,Sara,Rabat-Salé-Kénitra,Kénitra,January,2018,True
+M-10130,714,56,4,Clothing,Saree,Paiement à la livraison,2018-11-24,Amina,Souss-Massa,Inezgane,November,2018,True
+M-10131,50,-15,4,Clothing,Leggings,Paiement à la livraison,2018-03-10,Omar,Casablanca-Settat,Berrechid,March,2018,False
+M-10132,709,-100,5,Electronics,Phones,Paiement à la livraison,2018-11-28,Ahmed,Casablanca-Settat,Casablanca,November,2018,False
+M-10133,21,-12,3,Clothing,Hankerchief,Carte de débit,2018-12-06,Amina,Fès-Meknès,Meknès,December,2018,False
+M-10134,693,254,6,Clothing,Saree,Paiement à la livraison,2018-08-20,Fatima,Rabat-Salé-Kénitra,Rabat,August,2018,True
+M-10135,24,1,4,Clothing,Hankerchief,Paiement à la livraison,2018-11-14,Youssef,Souss-Massa,Agadir,November,2018,True
+M-10136,24,1,2,Clothing,Hankerchief,Virement bancaire,2018-06-16,Ahmed,Souss-Massa,Agadir,June,2018,True
+M-10137,24,1,2,Clothing,Hankerchief,Paiement à la livraison,2018-04-26,Omar,Souss-Massa,Inezgane,April,2018,True
+M-10138,21,10,1,Clothing,T-shirt,Carte de débit,2018-07-01,Rachid,Souss-Massa,Inezgane,July,2018,True
+M-10139,681,259,4,Furniture,Chairs,Paiement à la livraison,2018-10-27,Ahmed,Casablanca-Settat,Mohammedia,October,2018,True
+M-10140,674,-187,2,Furniture,Tables,Paiement à la livraison,2018-11-10,Salma,Fès-Meknès,Taza,November,2018,False
+M-10141,671,-309,5,Electronics,Electronic Games,Paiement à la livraison,2018-12-04,Sara,Fès-Meknès,Taza,December,2018,False
+M-10142,646,-213,3,Electronics,Electronic Games,Paiement à la livraison,2018-01-18,Hassan,Casablanca-Settat,Casablanca,January,2018,False
+M-10143,40,15,1,Clothing,Kurti,Paiement à la livraison,2018-02-06,Hassan,Rabat-Salé-Kénitra,Rabat,February,2018,True
+M-10144,24,-2,2,Clothing,T-shirt,Paiement à la livraison,2018-03-28,Khadija,Tanger-Tétouan-Al Hoceima,Tétouan,March,2018,False
+M-10145,644,167,2,Electronics,Printers,Paiement à la livraison,2018-08-09,Mohamed,Marrakech-Safi,Essaouira,August,2018,True
+M-10146,643,225,2,Electronics,Printers,Paiement à la livraison,2018-01-25,Hassan,Tanger-Tétouan-Al Hoceima,Al Hoceima,January,2018,True
+M-10147,632,-316,6,Clothing,Saree,Paiement à la livraison,2018-05-25,Youssef,Fès-Meknès,Meknès,May,2018,False
+M-10148,632,316,6,Clothing,Saree,Paiement à la livraison,2018-11-03,Mohamed,Fès-Meknès,Meknès,November,2018,True
+M-10149,610,208,3,Electronics,Printers,Paiement à la livraison,2018-12-02,Sara,Souss-Massa,Agadir,December,2018,True
+M-10150,78,-28,6,Clothing,Kurti,Virement bancaire,2018-01-08,Rachid,Fès-Meknès,Fès,January,2018,False
+M-10151,595,119,4,Furniture,Bookcases,Paiement à la livraison,2018-11-03,Mohamed,Souss-Massa,Inezgane,November,2018,True
+M-10152,595,292,3,Clothing,Saree,Paiement à la livraison,2018-04-26,Karim,Marrakech-Safi,Marrakech,April,2018,True
+M-10153,852,51,5,Furniture,Bookcases,Carte bancaire,2018-10-22,Khadija,Rabat-Salé-Kénitra,Rabat,October,2018,True
+M-10154,594,89,3,Furniture,Bookcases,Paiement à la livraison,2018-03-22,Laila,Marrakech-Safi,Marrakech,March,2018,True
+M-10155,585,175,13,Clothing,T-shirt,Paiement à la livraison,2018-04-23,Youssef,Rabat-Salé-Kénitra,Kénitra,April,2018,True
+M-10156,582,262,5,Furniture,Furnishings,Paiement à la livraison,2018-10-05,Hassan,Souss-Massa,Agadir,October,2018,True
+M-10157,845,84,7,Clothing,Saree,Carte bancaire,2018-06-18,Khadija,Béni Mellal-Khénifra,Kasba Tadla,June,2018,True
+M-10158,829,19,4,Electronics,Printers,Carte bancaire,2018-09-24,Salma,Souss-Massa,Agadir,September,2018,True
+M-10159,561,212,3,Clothing,Saree,Paiement à la livraison,2018-10-06,Ahmed,Béni Mellal-Khénifra,Béni Mellal,October,2018,True
+M-10160,771,-424,2,Electronics,Phones,Carte bancaire,2018-07-05,Zineb,Casablanca-Settat,Berrechid,July,2018,False
+M-10161,765,8,6,Clothing,Saree,Paiement en plusieurs fois,2018-05-25,Mustapha,Fès-Meknès,Taza,May,2018,True
+M-10162,31,2,2,Clothing,Hankerchief,Paiement à la livraison,2018-11-10,Mustapha,Tanger-Tétouan-Al Hoceima,Tétouan,November,2018,True
+M-10163,557,-111,2,Electronics,Electronic Games,Paiement à la livraison,2018-09-15,Salma,Souss-Massa,Agadir,September,2018,False
+M-10164,757,371,2,Electronics,Printers,Carte bancaire,2018-01-03,Rachid,Souss-Massa,Inezgane,January,2018,True
+M-10165,545,-73,11,Electronics,Phones,Paiement à la livraison,2018-03-09,Sara,Béni Mellal-Khénifra,Béni Mellal,March,2018,False
+M-10166,1052,-82,3,Furniture,Bookcases,Virement bancaire,2018-03-18,Ahmed,Marrakech-Safi,Marrakech,March,2018,False
+M-10167,544,-152,3,Furniture,Bookcases,Paiement à la livraison,2018-09-24,Amina,Marrakech-Safi,Marrakech,September,2018,False
+M-10168,22,9,2,Clothing,Leggings,Carte de débit,2018-01-30,Zineb,Casablanca-Settat,Casablanca,January,2018,True
+M-10169,757,371,2,Electronics,Printers,Carte bancaire,2018-01-27,Omar,Fès-Meknès,Fès,January,2018,True
+M-10170,742,198,2,Furniture,Bookcases,Carte bancaire,2018-03-10,Nadia,Fès-Meknès,Fès,March,2018,True
+M-10171,537,107,3,Clothing,Saree,Paiement à la livraison,2018-03-22,Laila,Béni Mellal-Khénifra,Béni Mellal,March,2018,True
+M-10172,536,91,1,Clothing,Trousers,Paiement à la livraison,2018-09-20,Nadia,Béni Mellal-Khénifra,Kasba Tadla,September,2018,True
+M-10173,6,3,1,Clothing,Hankerchief,Paiement à la livraison,2018-06-07,Ahmed,Casablanca-Settat,Casablanca,June,2018,True
+M-10174,523,204,7,Clothing,Trousers,Paiement à la livraison,2018-01-19,Youssef,Tanger-Tétouan-Al Hoceima,Tétouan,January,2018,True
+M-10175,27,9,2,Clothing,T-shirt,Virement bancaire,2018-08-14,Karim,Fès-Meknès,Meknès,August,2018,True
+M-10176,516,392,8,Furniture,Chairs,Paiement à la livraison,2018-10-24,Omar,Souss-Massa,Inezgane,October,2018,True
+M-10177,504,116,3,Furniture,Bookcases,Paiement à la livraison,2018-04-22,Hassan,Béni Mellal-Khénifra,Khénifra,April,2018,True
+M-10178,502,84,4,Electronics,Phones,Paiement à la livraison,2018-08-14,Khadija,Tanger-Tétouan-Al Hoceima,Tanger,August,2018,True
+M-10179,734,213,6,Electronics,Electronic Games,Carte bancaire,2018-06-10,Salma,Marrakech-Safi,Marrakech,June,2018,True
+M-10180,42,12,2,Clothing,Kurti,Paiement à la livraison,2018-02-11,Salma,Casablanca-Settat,Casablanca,February,2018,True
+M-10181,29,11,4,Clothing,Skirt,Paiement à la livraison,2018-02-23,Laila,Béni Mellal-Khénifra,Kasba Tadla,February,2018,True
+M-10182,240,12,6,Clothing,Kurti,Virement bancaire,2018-06-23,Karim,Marrakech-Safi,Marrakech,June,2018,True
+M-10183,496,-79,2,Clothing,Trousers,Paiement à la livraison,2018-01-21,Karim,Béni Mellal-Khénifra,Khénifra,January,2018,False
+M-10184,485,29,4,Electronics,Electronic Games,Paiement à la livraison,2018-10-28,Hassan,Marrakech-Safi,Marrakech,October,2018,True
+M-10185,31,-11,3,Clothing,Skirt,Virement bancaire,2018-08-07,Youssef,Casablanca-Settat,Mohammedia,August,2018,False
+M-10186,676,151,3,Electronics,Printers,Carte bancaire,2018-11-28,Amina,Fès-Meknès,Taza,November,2018,True
+M-10187,23,8,2,Clothing,Hankerchief,Carte de débit,2018-01-25,Hassan,Béni Mellal-Khénifra,Khénifra,January,2018,True
+M-10188,13,3,2,Clothing,Hankerchief,Paiement à la livraison,2018-03-29,Amina,Fès-Meknès,Fès,March,2018,True
+M-10189,180,0,8,Clothing,Stole,Paiement à la livraison,2018-04-13,Nadia,Rabat-Salé-Kénitra,Kénitra,April,2018,False
+M-10190,671,114,9,Electronics,Phones,Carte bancaire,2018-07-21,Youssef,Marrakech-Safi,Essaouira,July,2018,True
+M-10191,22,11,3,Clothing,Kurti,Paiement à la livraison,2018-03-06,Ahmed,Fès-Meknès,Meknès,March,2018,True
+M-10192,668,-31,3,Electronics,Printers,Carte bancaire,2018-04-09,Ahmed,Rabat-Salé-Kénitra,Salé,April,2018,False
+M-10193,145,0,3,Clothing,Saree,Virement bancaire,2018-08-03,Sara,Fès-Meknès,Meknès,August,2018,False
+M-10194,24,8,2,Clothing,Skirt,Carte de débit,2018-01-17,Khadija,Souss-Massa,Agadir,January,2018,True
+M-10195,476,0,3,Furniture,Chairs,Paiement à la livraison,2018-06-14,Ahmed,Marrakech-Safi,Essaouira,June,2018,False
+M-10196,24,11,5,Clothing,Hankerchief,Carte de débit,2018-01-05,Omar,Fès-Meknès,Fès,January,2018,True
+M-10197,37,3,3,Clothing,Hankerchief,Paiement à la livraison,2018-12-04,Youssef,Béni Mellal-Khénifra,Kasba Tadla,December,2018,True
+M-10198,152,50,6,Clothing,Stole,Virement bancaire,2018-10-10,Mustapha,Béni Mellal-Khénifra,Kasba Tadla,October,2018,True
+M-10199,32,11,2,Clothing,Leggings,Virement bancaire,2018-07-12,Karim,Tanger-Tétouan-Al Hoceima,Tanger,July,2018,True
+M-10200,52,11,5,Clothing,Leggings,Paiement à la livraison,2018-12-18,Ahmed,Tanger-Tétouan-Al Hoceima,Tétouan,December,2018,True
+M-10201,24,11,3,Clothing,Hankerchief,Carte de débit,2018-12-10,Karim,Marrakech-Safi,Essaouira,December,2018,True
+M-10202,473,42,4,Furniture,Chairs,Paiement à la livraison,2018-03-28,Mustapha,Souss-Massa,Agadir,March,2018,True
+M-10203,263,50,5,Clothing,Stole,Paiement à la livraison,2018-05-10,Mustapha,Souss-Massa,Tiznit,May,2018,True
+M-10204,61,11,3,Clothing,Kurti,Paiement à la livraison,2018-03-21,Hassan,Tanger-Tétouan-Al Hoceima,Tétouan,March,2018,True
+M-10205,469,-459,3,Electronics,Electronic Games,Paiement à la livraison,2018-01-18,Fatima,Fès-Meknès,Meknès,January,2018,False
+M-10206,1272,547,2,Electronics,Phones,Paiement à la livraison,2018-11-08,Mustapha,Béni Mellal-Khénifra,Béni Mellal,November,2018,True
+M-10207,169,0,3,Electronics,Accessories,Paiement à la livraison,2018-04-28,Karim,Fès-Meknès,Meknès,April,2018,False
+M-10208,25,11,3,Clothing,Leggings,Carte de débit,2018-06-08,Nadia,Marrakech-Safi,Marrakech,June,2018,True
+M-10209,457,-41,4,Clothing,Saree,Paiement à la livraison,2018-02-14,Youssef,Rabat-Salé-Kénitra,Kénitra,February,2018,False
+M-10210,455,77,8,Electronics,Accessories,Paiement à la livraison,2018-02-23,Khadija,Souss-Massa,Inezgane,February,2018,True
+M-10211,25,2,2,Clothing,Hankerchief,Carte de débit,2018-03-10,Khadija,Fès-Meknès,Fès,March,2018,True
+M-10212,450,-90,3,Electronics,Printers,Paiement à la livraison,2018-10-15,Rachid,Souss-Massa,Tiznit,October,2018,False
+M-10213,30,-35,1,Furniture,Chairs,Paiement à la livraison,2018-07-10,Laila,Béni Mellal-Khénifra,Kasba Tadla,July,2018,False
+M-10214,659,-37,2,Furniture,Bookcases,Carte bancaire,2018-01-04,Fatima,Tanger-Tétouan-Al Hoceima,Tanger,January,2018,False
+M-10215,448,148,2,Electronics,Printers,Paiement à la livraison,2018-02-13,Mohamed,Fès-Meknès,Meknès,February,2018,True
+M-10216,446,53,3,Electronics,Printers,Paiement à la livraison,2018-05-11,Salma,Tanger-Tétouan-Al Hoceima,Tanger,May,2018,True
+M-10217,98,-45,2,Furniture,Chairs,Virement bancaire,2018-10-12,Mohamed,Rabat-Salé-Kénitra,Kénitra,October,2018,False
+M-10218,443,11,1,Clothing,Saree,Paiement à la livraison,2018-04-26,Zineb,Fès-Meknès,Taza,April,2018,True
+M-10219,427,-50,7,Electronics,Phones,Paiement à la livraison,2018-12-04,Mohamed,Casablanca-Settat,Casablanca,December,2018,False
+M-10220,656,-36,2,Furniture,Bookcases,Carte bancaire,2018-06-11,Zineb,Rabat-Salé-Kénitra,Kénitra,June,2018,False
+M-10221,424,161,2,Clothing,Saree,Paiement à la livraison,2018-05-17,Hassan,Tanger-Tétouan-Al Hoceima,Tanger,May,2018,True
+M-10222,27,8,2,Clothing,T-shirt,Carte de débit,2018-04-26,Amina,Rabat-Salé-Kénitra,Kénitra,April,2018,True
+M-10223,424,-272,5,Electronics,Phones,Paiement à la livraison,2018-03-13,Mohamed,Souss-Massa,Tiznit,March,2018,False
+M-10224,202,4,4,Clothing,Hankerchief,Paiement à la livraison,2018-03-03,Mustapha,Souss-Massa,Inezgane,March,2018,True
+M-10225,1275,357,2,Electronics,Phones,Virement bancaire,2018-09-02,Rachid,Marrakech-Safi,Marrakech,September,2018,True
+M-10226,418,70,7,Electronics,Phones,Paiement à la livraison,2018-08-08,Zineb,Béni Mellal-Khénifra,Béni Mellal,August,2018,True
+M-10227,417,49,3,Electronics,Electronic Games,Paiement à la livraison,2018-04-18,Fatima,Casablanca-Settat,Mohammedia,April,2018,True
+M-10228,199,48,4,Clothing,Stole,Virement bancaire,2018-01-18,Khadija,Tanger-Tétouan-Al Hoceima,Tétouan,January,2018,True
+M-10229,385,-77,11,Furniture,Furnishings,Virement bancaire,2018-09-02,Ahmed,Rabat-Salé-Kénitra,Kénitra,September,2018,False
+M-10230,414,199,3,Electronics,Phones,Paiement à la livraison,2018-04-18,Sara,Marrakech-Safi,Marrakech,April,2018,True
+M-10231,97,-45,4,Clothing,Saree,Paiement à la livraison,2018-06-11,Rachid,Béni Mellal-Khénifra,Khénifra,June,2018,False
+M-10232,648,50,6,Electronics,Electronic Games,Carte bancaire,2018-10-25,Salma,Marrakech-Safi,Marrakech,October,2018,True
+M-10233,27,-25,2,Clothing,Shirt,Carte de débit,2018-02-23,Fatima,Fès-Meknès,Fès,February,2018,False
+M-10234,27,12,1,Clothing,Stole,Carte de débit,2018-07-09,Sara,Casablanca-Settat,Mohammedia,July,2018,True
+M-10235,27,1,1,Clothing,Stole,Virement bancaire,2018-02-01,Laila,Rabat-Salé-Kénitra,Salé,February,2018,True
+M-10236,413,-314,9,Furniture,Chairs,Paiement à la livraison,2018-11-04,Youssef,Marrakech-Safi,Essaouira,November,2018,False
+M-10237,53,2,4,Clothing,Hankerchief,Paiement à la livraison,2018-11-06,Ahmed,Tanger-Tétouan-Al Hoceima,Al Hoceima,November,2018,True
+M-10238,29,8,5,Clothing,Hankerchief,Virement bancaire,2018-09-15,Mohamed,Béni Mellal-Khénifra,Khénifra,September,2018,True
+M-10239,30,13,1,Clothing,T-shirt,Virement bancaire,2018-04-20,Fatima,Tanger-Tétouan-Al Hoceima,Al Hoceima,April,2018,True
+M-10240,412,412,6,Clothing,Saree,Paiement à la livraison,2018-02-04,Youssef,Souss-Massa,Inezgane,February,2018,True
+M-10241,646,-23,2,Electronics,Printers,Carte bancaire,2018-06-03,Nadia,Marrakech-Safi,Essaouira,June,2018,False
+M-10242,30,-5,5,Clothing,Stole,Virement bancaire,2018-07-22,Youssef,Casablanca-Settat,Mohammedia,July,2018,False
+M-10243,618,27,4,Furniture,Bookcases,Carte bancaire,2018-02-14,Mustapha,Souss-Massa,Inezgane,February,2018,True
+M-10244,143,-124,5,Clothing,Saree,Virement bancaire,2018-08-24,Khadija,Béni Mellal-Khénifra,Kasba Tadla,August,2018,False
+M-10245,31,1,2,Clothing,Hankerchief,Virement bancaire,2018-10-05,Sara,Casablanca-Settat,Berrechid,October,2018,True
+M-10246,409,86,3,Clothing,Saree,Paiement à la livraison,2018-08-18,Mohamed,Marrakech-Safi,Essaouira,August,2018,True
+M-10247,406,126,2,Clothing,Saree,Paiement à la livraison,2018-02-16,Laila,Tanger-Tétouan-Al Hoceima,Tanger,February,2018,True
+M-10248,565,66,7,Clothing,Saree,Carte bancaire,2018-04-27,Mustapha,Tanger-Tétouan-Al Hoceima,Tanger,April,2018,True
+M-10249,85,2,6,Clothing,Stole,Paiement à la livraison,2018-09-22,Fatima,Souss-Massa,Tiznit,September,2018,True
+M-10250,561,118,5,Furniture,Bookcases,Carte bancaire,2018-03-20,Omar,Tanger-Tétouan-Al Hoceima,Tanger,March,2018,True
+M-10251,503,-56,2,Clothing,Trousers,Paiement à la livraison,2018-02-09,Amina,Casablanca-Settat,Casablanca,February,2018,False
+M-10252,31,14,3,Clothing,Stole,Virement bancaire,2018-03-26,Laila,Souss-Massa,Tiznit,March,2018,True
+M-10253,398,111,8,Clothing,Hankerchief,Paiement à la livraison,2018-04-17,Omar,Béni Mellal-Khénifra,Khénifra,April,2018,True
+M-10254,388,93,2,Furniture,Bookcases,Paiement à la livraison,2018-01-30,Rachid,Casablanca-Settat,Berrechid,January,2018,True
+M-10255,498,-116,4,Clothing,Saree,Virement bancaire,2018-08-31,Laila,Souss-Massa,Agadir,August,2018,False
+M-10256,561,212,3,Clothing,Saree,Carte bancaire,2018-01-31,Amina,Marrakech-Safi,Essaouira,January,2018,True
+M-10257,61,3,4,Clothing,Hankerchief,Paiement à la livraison,2018-10-31,Ahmed,Tanger-Tétouan-Al Hoceima,Tétouan,October,2018,True
+M-10258,34,-22,4,Clothing,T-shirt,Paiement à la livraison,2018-05-19,Zineb,Tanger-Tétouan-Al Hoceima,Al Hoceima,May,2018,False
+M-10259,32,6,3,Clothing,Shirt,Virement bancaire,2018-02-21,Sara,Fès-Meknès,Meknès,February,2018,True
+M-10260,623,-192,3,Furniture,Tables,Virement bancaire,2018-01-13,Zineb,Tanger-Tétouan-Al Hoceima,Tétouan,January,2018,False
+M-10261,520,151,3,Electronics,Phones,Carte bancaire,2018-12-05,Mustapha,Béni Mellal-Khénifra,Khénifra,December,2018,True
+M-10262,32,-16,6,Clothing,Saree,Virement bancaire,2018-02-10,Amina,Tanger-Tétouan-Al Hoceima,Al Hoceima,February,2018,False
+M-10263,32,-5,5,Clothing,Hankerchief,Virement bancaire,2018-11-24,Salma,Souss-Massa,Agadir,November,2018,False
+M-10264,510,234,6,Electronics,Electronic Games,Paiement en plusieurs fois,2018-12-19,Ahmed,Marrakech-Safi,Marrakech,December,2018,True
+M-10265,382,68,3,Clothing,Saree,Paiement à la livraison,2018-09-24,Karim,Rabat-Salé-Kénitra,Kénitra,September,2018,True
+M-10266,33,13,3,Clothing,Leggings,Virement bancaire,2018-02-08,Ahmed,Rabat-Salé-Kénitra,Kénitra,February,2018,True
+M-10267,381,-13,2,Clothing,Saree,Paiement à la livraison,2018-05-01,Sara,Marrakech-Safi,Safi,May,2018,False
+M-10268,490,88,2,Electronics,Accessories,Paiement en plusieurs fois,2018-10-29,Youssef,Rabat-Salé-Kénitra,Rabat,October,2018,True
+M-10269,381,144,2,Clothing,Saree,Paiement à la livraison,2018-04-12,Nadia,Casablanca-Settat,Casablanca,April,2018,True
+M-10270,487,143,4,Electronics,Phones,Paiement en plusieurs fois,2018-10-10,Hassan,Casablanca-Settat,Casablanca,October,2018,True
+M-10271,366,84,3,Furniture,Bookcases,Paiement à la livraison,2018-11-03,Hassan,Rabat-Salé-Kénitra,Rabat,November,2018,True
+M-10272,33,-29,3,Clothing,Shirt,Virement bancaire,2018-02-19,Khadija,Tanger-Tétouan-Al Hoceima,Tanger,February,2018,False
+M-10273,365,107,3,Electronics,Phones,Paiement à la livraison,2018-09-06,Sara,Béni Mellal-Khénifra,Khénifra,September,2018,True
+M-10274,207,-100,2,Clothing,Saree,Virement bancaire,2018-11-24,Amina,Béni Mellal-Khénifra,Kasba Tadla,November,2018,False
+M-10275,359,-338,5,Furniture,Bookcases,Paiement à la livraison,2018-05-16,Nadia,Marrakech-Safi,Marrakech,May,2018,False
+M-10276,351,-47,8,Electronics,Phones,Paiement à la livraison,2018-12-22,Zineb,Marrakech-Safi,Safi,December,2018,False
+M-10277,485,199,4,Clothing,Saree,Paiement en plusieurs fois,2018-01-22,Amina,Casablanca-Settat,Berrechid,January,2018,True
+M-10278,37,-23,4,Clothing,Shirt,Virement bancaire,2018-03-15,Youssef,Casablanca-Settat,Berrechid,March,2018,False
+M-10279,34,10,2,Clothing,T-shirt,Carte de débit,2018-11-17,Zineb,Casablanca-Settat,Mohammedia,November,2018,True
+M-10280,346,108,3,Furniture,Chairs,Paiement à la livraison,2018-06-28,Nadia,Tanger-Tétouan-Al Hoceima,Tanger,June,2018,True
+M-10281,342,-103,4,Electronics,Electronic Games,Paiement à la livraison,2018-05-17,Karim,Casablanca-Settat,Berrechid,May,2018,False
+M-10282,35,-8,2,Furniture,Furnishings,Carte de débit,2018-08-12,Ahmed,Tanger-Tétouan-Al Hoceima,Al Hoceima,August,2018,False
+M-10283,121,41,4,Clothing,Stole,Virement bancaire,2018-08-30,Youssef,Tanger-Tétouan-Al Hoceima,Tétouan,August,2018,True
+M-10284,336,57,2,Electronics,Phones,Paiement à la livraison,2018-11-15,Zineb,Tanger-Tétouan-Al Hoceima,Tétouan,November,2018,True
+M-10285,336,71,3,Furniture,Bookcases,Paiement à la livraison,2018-03-11,Laila,Béni Mellal-Khénifra,Kasba Tadla,March,2018,True
+M-10286,27,4,1,Clothing,Hankerchief,Paiement à la livraison,2018-10-08,Khadija,Fès-Meknès,Meknès,October,2018,True
+M-10287,333,50,2,Electronics,Phones,Paiement à la livraison,2018-12-09,Sara,Tanger-Tétouan-Al Hoceima,Tanger,December,2018,True
+M-10288,36,7,3,Clothing,Leggings,Carte de débit,2018-03-25,Zineb,Rabat-Salé-Kénitra,Kénitra,March,2018,True
+M-10289,333,-15,3,Electronics,Phones,Paiement à la livraison,2018-05-08,Zineb,Fès-Meknès,Taza,May,2018,False
+M-10290,327,114,4,Clothing,Trousers,Paiement à la livraison,2018-02-09,Salma,Fès-Meknès,Fès,February,2018,True
+M-10291,18,6,3,Clothing,Hankerchief,Virement bancaire,2018-10-01,Salma,Rabat-Salé-Kénitra,Salé,October,2018,True
+M-10292,325,32,7,Clothing,T-shirt,Paiement à la livraison,2018-12-31,Mohamed,Rabat-Salé-Kénitra,Salé,December,2018,True
+M-10293,482,-6,7,Electronics,Electronic Games,Paiement en plusieurs fois,2018-01-31,Youssef,Tanger-Tétouan-Al Hoceima,Tanger,January,2018,False
+M-10294,465,-33,4,Electronics,Phones,Paiement en plusieurs fois,2018-02-03,Ahmed,Fès-Meknès,Fès,February,2018,False
+M-10295,40,-12,3,Clothing,Shirt,Paiement à la livraison,2018-04-20,Mustapha,Souss-Massa,Tiznit,April,2018,False
+M-10296,107,36,6,Clothing,Stole,Paiement à la livraison,2018-07-07,Salma,Marrakech-Safi,Essaouira,July,2018,True
+M-10297,312,-312,7,Furniture,Chairs,Paiement à la livraison,2018-01-25,Mustapha,Béni Mellal-Khénifra,Khénifra,January,2018,False
+M-10298,451,25,3,Electronics,Phones,Paiement en plusieurs fois,2018-03-16,Amina,Marrakech-Safi,Safi,March,2018,True
+M-10299,312,62,1,Electronics,Electronic Games,Paiement à la livraison,2018-07-16,Salma,Tanger-Tétouan-Al Hoceima,Al Hoceima,July,2018,True
+M-10300,311,72,2,Furniture,Bookcases,Paiement à la livraison,2018-11-15,Mustapha,Rabat-Salé-Kénitra,Salé,November,2018,True
+M-10301,11,5,2,Clothing,Hankerchief,Virement bancaire,2018-02-03,Amina,Tanger-Tétouan-Al Hoceima,Tétouan,February,2018,True
+M-10302,37,-5,3,Clothing,T-shirt,Carte de débit,2018-08-01,Zineb,Marrakech-Safi,Safi,August,2018,False
+M-10303,444,-200,4,Electronics,Phones,Paiement en plusieurs fois,2018-03-01,Rachid,Béni Mellal-Khénifra,Khénifra,March,2018,False
+M-10304,434,26,11,Clothing,Shirt,Carte bancaire,2018-01-27,Fatima,Béni Mellal-Khénifra,Kasba Tadla,January,2018,True
+M-10305,299,0,6,Clothing,Stole,Paiement à la livraison,2018-12-12,Nadia,Tanger-Tétouan-Al Hoceima,Tétouan,December,2018,False
+M-10306,37,17,3,Clothing,Hankerchief,Carte de débit,2018-01-07,Nadia,Tanger-Tétouan-Al Hoceima,Tétouan,January,2018,True
+M-10307,299,113,2,Furniture,Bookcases,Paiement à la livraison,2018-09-24,Mohamed,Marrakech-Safi,Marrakech,September,2018,True
+M-10308,298,74,2,Furniture,Bookcases,Paiement à la livraison,2018-02-27,Mohamed,Béni Mellal-Khénifra,Béni Mellal,February,2018,True
+M-10309,94,7,7,Clothing,Leggings,Virement bancaire,2018-06-18,Ahmed,Béni Mellal-Khénifra,Khénifra,June,2018,True
+M-10310,296,225,11,Clothing,Saree,Paiement à la livraison,2018-01-18,Youssef,Tanger-Tétouan-Al Hoceima,Al Hoceima,January,2018,True
+M-10311,37,17,3,Clothing,Hankerchief,Carte de débit,2018-02-23,Rachid,Béni Mellal-Khénifra,Kasba Tadla,February,2018,True
+M-10312,291,93,2,Electronics,Printers,Paiement à la livraison,2018-12-25,Mohamed,Rabat-Salé-Kénitra,Salé,December,2018,True
+M-10313,327,-39,1,Electronics,Phones,Paiement à la livraison,2018-01-10,Amina,Casablanca-Settat,Mohammedia,January,2018,False
+M-10314,291,119,11,Clothing,Saree,Paiement à la livraison,2018-07-19,Mohamed,Casablanca-Settat,Berrechid,July,2018,True
+M-10315,287,-66,6,Clothing,Kurti,Paiement à la livraison,2018-02-19,Salma,Béni Mellal-Khénifra,Khénifra,February,2018,False
+M-10316,42,15,1,Electronics,Accessories,Virement bancaire,2018-06-18,Youssef,Tanger-Tétouan-Al Hoceima,Tanger,June,2018,True
+M-10317,429,61,3,Electronics,Electronic Games,Carte bancaire,2018-05-21,Mustapha,Marrakech-Safi,Essaouira,May,2018,True
+M-10318,285,128,2,Electronics,Printers,Paiement à la livraison,2018-02-08,Hassan,Tanger-Tétouan-Al Hoceima,Tanger,February,2018,True
+M-10319,277,3,1,Electronics,Electronic Games,Paiement à la livraison,2018-04-11,Sara,Rabat-Salé-Kénitra,Kénitra,April,2018,True
+M-10320,274,-7,4,Electronics,Phones,Paiement à la livraison,2018-12-10,Amina,Fès-Meknès,Fès,December,2018,False
+M-10321,273,-87,4,Electronics,Phones,Paiement à la livraison,2018-04-22,Fatima,Fès-Meknès,Fès,April,2018,False
+M-10322,269,91,1,Electronics,Electronic Games,Paiement à la livraison,2018-07-08,Sara,Rabat-Salé-Kénitra,Kénitra,July,2018,True
+M-10323,11,5,1,Clothing,Skirt,Paiement à la livraison,2018-03-27,Amina,Souss-Massa,Tiznit,March,2018,True
+M-10324,39,2,2,Clothing,Saree,Carte de débit,2018-04-03,Omar,Marrakech-Safi,Marrakech,April,2018,True
+M-10325,264,-26,3,Clothing,Trousers,Paiement à la livraison,2018-10-23,Fatima,Fès-Meknès,Meknès,October,2018,False
+M-10326,40,16,3,Clothing,Hankerchief,Carte de débit,2018-10-29,Karim,Béni Mellal-Khénifra,Kasba Tadla,October,2018,True
+M-10327,41,19,2,Clothing,T-shirt,Carte de débit,2018-02-19,Ahmed,Tanger-Tétouan-Al Hoceima,Al Hoceima,February,2018,True
+M-10328,253,-63,2,Clothing,Saree,Virement bancaire,2018-10-09,Karim,Marrakech-Safi,Marrakech,October,2018,False
+M-10329,406,97,7,Furniture,Chairs,Carte bancaire,2018-12-11,Sara,Souss-Massa,Inezgane,December,2018,True
+M-10330,32,7,3,Clothing,Hankerchief,Paiement à la livraison,2018-01-13,Fatima,Marrakech-Safi,Safi,January,2018,True
+M-10331,260,68,2,Electronics,Printers,Paiement à la livraison,2018-03-27,Khadija,Tanger-Tétouan-Al Hoceima,Al Hoceima,March,2018,True
+M-10332,41,19,5,Clothing,Hankerchief,Carte de débit,2018-01-13,Khadija,Tanger-Tétouan-Al Hoceima,Tétouan,January,2018,True
+M-10333,401,13,6,Furniture,Chairs,Carte bancaire,2018-02-07,Ahmed,Souss-Massa,Inezgane,February,2018,True
+M-10334,382,30,3,Clothing,Saree,Carte bancaire,2018-09-02,Khadija,Rabat-Salé-Kénitra,Rabat,September,2018,True
+M-10335,867,251,5,Electronics,Phones,Paiement à la livraison,2018-05-15,Mohamed,Béni Mellal-Khénifra,Khénifra,May,2018,True
+M-10336,43,0,3,Clothing,Saree,Carte de débit,2018-12-28,Omar,Béni Mellal-Khénifra,Béni Mellal,December,2018,False
+M-10337,43,-43,7,Clothing,Stole,Carte de débit,2018-11-27,Amina,Marrakech-Safi,Marrakech,November,2018,False
+M-10338,74,29,3,Clothing,Stole,Paiement à la livraison,2018-01-12,Youssef,Rabat-Salé-Kénitra,Rabat,January,2018,True
+M-10339,44,-26,3,Clothing,Hankerchief,Carte de débit,2018-03-16,Laila,Fès-Meknès,Meknès,March,2018,False
+M-10340,259,-55,2,Furniture,Chairs,Paiement à la livraison,2018-03-24,Laila,Marrakech-Safi,Essaouira,March,2018,False
+M-10341,257,23,5,Clothing,Hankerchief,Paiement à la livraison,2018-07-20,Hassan,Casablanca-Settat,Mohammedia,July,2018,True
+M-10342,76,27,5,Clothing,Stole,Paiement à la livraison,2018-04-24,Khadija,Casablanca-Settat,Berrechid,April,2018,True
+M-10343,44,-32,3,Clothing,Stole,Carte de débit,2018-05-28,Hassan,Marrakech-Safi,Marrakech,May,2018,False
+M-10344,257,3,2,Clothing,Saree,Paiement à la livraison,2018-06-17,Amina,Tanger-Tétouan-Al Hoceima,Al Hoceima,June,2018,True
+M-10345,255,76,9,Clothing,Hankerchief,Paiement à la livraison,2018-02-03,Salma,Fès-Meknès,Fès,February,2018,True
+M-10346,44,14,3,Clothing,Hankerchief,Carte de débit,2018-08-29,Amina,Marrakech-Safi,Marrakech,August,2018,True
+M-10347,45,-2,4,Clothing,Shirt,Paiement à la livraison,2018-12-04,Zineb,Souss-Massa,Agadir,December,2018,False
+M-10348,44,-3,1,Clothing,Saree,Carte de débit,2018-03-26,Youssef,Souss-Massa,Tiznit,March,2018,False
+M-10349,382,119,2,Clothing,Saree,Carte bancaire,2018-09-13,Rachid,Casablanca-Settat,Mohammedia,September,2018,True
+M-10350,250,100,3,Clothing,Trousers,Paiement à la livraison,2018-06-09,Karim,Marrakech-Safi,Safi,June,2018,True
+M-10351,45,-15,2,Furniture,Chairs,Paiement à la livraison,2018-08-03,Ahmed,Béni Mellal-Khénifra,Béni Mellal,August,2018,False
+M-10352,246,61,2,Furniture,Bookcases,Paiement à la livraison,2018-07-26,Zineb,Tanger-Tétouan-Al Hoceima,Al Hoceima,July,2018,True
+M-10353,50,25,5,Clothing,Stole,Paiement à la livraison,2018-05-04,Salma,Tanger-Tétouan-Al Hoceima,Tétouan,May,2018,True
+M-10354,246,98,5,Clothing,Hankerchief,Paiement à la livraison,2018-02-24,Fatima,Casablanca-Settat,Casablanca,February,2018,True
+M-10355,44,99,3,Clothing,Kurti,Carte de débit,2018-06-25,Ahmed,Marrakech-Safi,Safi,June,2018,True
+M-10356,245,-78,3,Clothing,Saree,Paiement à la livraison,2018-02-14,Youssef,Casablanca-Settat,Mohammedia,February,2018,False
+M-10357,245,30,2,Clothing,Saree,Paiement à la livraison,2018-06-29,Hassan,Casablanca-Settat,Berrechid,June,2018,True
+M-10358,376,0,7,Clothing,Stole,Carte bancaire,2018-10-10,Zineb,Casablanca-Settat,Mohammedia,October,2018,False
+M-10359,45,1,3,Clothing,T-shirt,Carte de débit,2018-10-16,Laila,Tanger-Tétouan-Al Hoceima,Al Hoceima,October,2018,True
+M-10360,45,-28,2,Clothing,Stole,Carte de débit,2018-11-24,Rachid,Souss-Massa,Agadir,November,2018,False
+M-10361,244,-122,5,Furniture,Furnishings,Paiement à la livraison,2018-05-24,Salma,Marrakech-Safi,Safi,May,2018,False
+M-10362,244,83,2,Furniture,Bookcases,Paiement à la livraison,2018-10-01,Omar,Casablanca-Settat,Mohammedia,October,2018,True
+M-10363,10,4,1,Clothing,Kurti,Virement bancaire,2018-01-01,Khadija,Béni Mellal-Khénifra,Khénifra,January,2018,True
+M-10364,375,180,3,Furniture,Bookcases,Carte bancaire,2018-02-17,Karim,Fès-Meknès,Meknès,February,2018,True
+M-10365,46,14,5,Clothing,Skirt,Carte de débit,2018-03-16,Hassan,Rabat-Salé-Kénitra,Salé,March,2018,True
+M-10366,49,-31,2,Clothing,Stole,Virement bancaire,2018-11-26,Laila,Rabat-Salé-Kénitra,Salé,November,2018,False
+M-10367,47,-20,2,Clothing,Kurti,Carte de débit,2018-12-04,Fatima,Casablanca-Settat,Casablanca,December,2018,False
+M-10368,355,-114,7,Clothing,Stole,Carte bancaire,2018-10-16,Nadia,Rabat-Salé-Kénitra,Rabat,October,2018,False
+M-10369,32,8,5,Clothing,Hankerchief,Virement bancaire,2018-12-03,Karim,Casablanca-Settat,Berrechid,December,2018,True
+M-10370,243,-14,2,Furniture,Chairs,Paiement à la livraison,2018-11-21,Nadia,Béni Mellal-Khénifra,Khénifra,November,2018,False
+M-10371,241,-77,4,Electronics,Electronic Games,Paiement à la livraison,2018-04-26,Youssef,Souss-Massa,Inezgane,April,2018,False
+M-10372,47,15,5,Clothing,Saree,Carte de débit,2018-04-15,Omar,Marrakech-Safi,Safi,April,2018,True
+M-10373,50,-10,6,Clothing,Skirt,Carte de débit,2018-01-23,Khadija,Tanger-Tétouan-Al Hoceima,Tétouan,January,2018,False
+M-10374,15,6,2,Clothing,Hankerchief,Paiement à la livraison,2018-10-05,Nadia,Marrakech-Safi,Marrakech,October,2018,True
+M-10375,148,24,3,Clothing,Stole,Paiement à la livraison,2018-11-15,Salma,Rabat-Salé-Kénitra,Salé,November,2018,True
+M-10376,299,-28,3,Electronics,Electronic Games,Virement bancaire,2018-03-22,Nadia,Tanger-Tétouan-Al Hoceima,Tanger,March,2018,False
+M-10377,68,-30,1,Electronics,Phones,Virement bancaire,2018-10-07,Omar,Marrakech-Safi,Marrakech,October,2018,False
+M-10378,52,18,5,Clothing,Leggings,Carte de débit,2018-07-29,Youssef,Souss-Massa,Tiznit,July,2018,True
+M-10379,239,-162,5,Furniture,Chairs,Paiement à la livraison,2018-11-24,Fatima,Marrakech-Safi,Essaouira,November,2018,False
+M-10380,27,6,3,Clothing,Skirt,Paiement à la livraison,2018-01-04,Sara,Tanger-Tétouan-Al Hoceima,Tétouan,January,2018,True
+M-10381,238,20,2,Clothing,Saree,Paiement à la livraison,2018-12-17,Rachid,Souss-Massa,Inezgane,December,2018,True
+M-10382,48,16,3,Clothing,Shirt,Paiement à la livraison,2018-12-16,Nadia,Fès-Meknès,Fès,December,2018,True
+M-10383,66,22,3,Clothing,Stole,Virement bancaire,2018-10-20,Rachid,Marrakech-Safi,Essaouira,October,2018,True
+M-10384,53,24,1,Clothing,Hankerchief,Carte de débit,2018-07-06,Youssef,Marrakech-Safi,Safi,July,2018,True
+M-10385,233,-10,5,Electronics,Electronic Games,Paiement à la livraison,2018-11-15,Amina,Béni Mellal-Khénifra,Khénifra,November,2018,False
+M-10386,53,-2,3,Clothing,Saree,Carte de débit,2018-12-21,Khadija,Rabat-Salé-Kénitra,Rabat,December,2018,False
+M-10387,54,8,4,Clothing,T-shirt,Carte de débit,2018-03-05,Sara,Fès-Meknès,Meknès,March,2018,True
+M-10388,352,-345,5,Clothing,Saree,Carte bancaire,2018-12-24,Sara,Souss-Massa,Inezgane,December,2018,False
+M-10389,349,0,7,Clothing,Stole,Carte bancaire,2018-06-24,Amina,Fès-Meknès,Meknès,June,2018,False
+M-10390,341,-85,6,Clothing,Trousers,Carte bancaire,2018-07-30,Salma,Marrakech-Safi,Safi,July,2018,False
+M-10391,54,12,3,Clothing,Saree,Carte de débit,2018-06-26,Nadia,Fès-Meknès,Fès,June,2018,True
+M-10392,57,7,2,Clothing,Shirt,Virement bancaire,2018-03-27,Mustapha,Marrakech-Safi,Safi,March,2018,True
+M-10393,340,20,7,Clothing,Shirt,Carte bancaire,2018-03-23,Omar,Fès-Meknès,Fès,March,2018,True
+M-10394,227,48,5,Clothing,Stole,Paiement à la livraison,2018-10-14,Hassan,Fès-Meknès,Fès,October,2018,True
+M-10395,330,81,1,Furniture,Bookcases,Carte bancaire,2018-11-03,Karim,Casablanca-Settat,Mohammedia,November,2018,True
+M-10396,216,-38,6,Furniture,Furnishings,Virement bancaire,2018-02-12,Hassan,Tanger-Tétouan-Al Hoceima,Tanger,February,2018,False
+M-10397,224,-143,3,Furniture,Chairs,Paiement à la livraison,2018-04-24,Amina,Béni Mellal-Khénifra,Béni Mellal,April,2018,False
+M-10398,55,-33,2,Furniture,Chairs,Carte de débit,2018-04-06,Zineb,Fès-Meknès,Taza,April,2018,False
+M-10399,49,21,1,Clothing,Stole,Virement bancaire,2018-08-10,Hassan,Béni Mellal-Khénifra,Béni Mellal,August,2018,True
+M-10400,224,87,3,Clothing,Trousers,Paiement à la livraison,2018-02-08,Mustapha,Fès-Meknès,Meknès,February,2018,True
+M-10401,223,27,2,Furniture,Bookcases,Paiement à la livraison,2018-11-03,Khadija,Souss-Massa,Tiznit,November,2018,True
+M-10402,324,39,8,Electronics,Accessories,Carte bancaire,2018-11-19,Amina,Tanger-Tétouan-Al Hoceima,Tanger,November,2018,True
+M-10403,56,18,2,Clothing,Hankerchief,Carte de débit,2018-03-16,Omar,Marrakech-Safi,Safi,March,2018,True
+M-10404,223,62,7,Clothing,Shirt,Paiement à la livraison,2018-11-15,Mustapha,Casablanca-Settat,Mohammedia,November,2018,True
+M-10405,10,2,2,Clothing,Skirt,Paiement à la livraison,2018-02-25,Sara,Marrakech-Safi,Essaouira,February,2018,True
+M-10406,57,6,5,Clothing,Leggings,Carte de débit,2018-12-20,Sara,Fès-Meknès,Meknès,December,2018,True
+M-10407,322,-113,4,Clothing,Saree,Carte bancaire,2018-03-27,Sara,Souss-Massa,Tiznit,March,2018,False
+M-10408,219,4,2,Clothing,Saree,Paiement à la livraison,2018-01-31,Zineb,Souss-Massa,Tiznit,January,2018,True
+M-10409,103,21,7,Clothing,Stole,Virement bancaire,2018-12-11,Mustapha,Souss-Massa,Tiznit,December,2018,True
+M-10410,47,-27,4,Clothing,Saree,Paiement à la livraison,2018-02-14,Sara,Tanger-Tétouan-Al Hoceima,Tétouan,February,2018,False
+M-10411,219,0,1,Clothing,Saree,Paiement à la livraison,2018-04-30,Karim,Rabat-Salé-Kénitra,Salé,April,2018,False
+M-10412,57,-48,6,Clothing,Leggings,Carte de débit,2018-06-04,Rachid,Marrakech-Safi,Essaouira,June,2018,False
+M-10413,319,102,6,Electronics,Accessories,Carte bancaire,2018-07-18,Khadija,Tanger-Tétouan-Al Hoceima,Tanger,July,2018,True
+M-10414,315,-8,3,Furniture,Chairs,Carte bancaire,2018-04-05,Mohamed,Fès-Meknès,Meknès,April,2018,False
+M-10415,314,-41,3,Electronics,Electronic Games,Carte bancaire,2018-09-24,Amina,Béni Mellal-Khénifra,Béni Mellal,September,2018,False
+M-10416,311,40,1,Electronics,Electronic Games,Paiement en plusieurs fois,2018-06-04,Laila,Souss-Massa,Inezgane,June,2018,True
+M-10417,307,74,3,Electronics,Accessories,Paiement en plusieurs fois,2018-01-04,Ahmed,Béni Mellal-Khénifra,Khénifra,January,2018,True
+M-10418,294,109,7,Electronics,Accessories,Paiement en plusieurs fois,2018-01-04,Salma,Souss-Massa,Agadir,January,2018,True
+M-10419,216,-83,3,Electronics,Electronic Games,Paiement à la livraison,2018-02-02,Nadia,Tanger-Tétouan-Al Hoceima,Tétouan,February,2018,False
+M-10420,58,-42,2,Furniture,Chairs,Carte de débit,2018-04-15,Salma,Fès-Meknès,Taza,April,2018,False
+M-10421,48,20,4,Clothing,Stole,Virement bancaire,2018-02-22,Nadia,Tanger-Tétouan-Al Hoceima,Tanger,February,2018,True
+M-10422,54,14,3,Clothing,T-shirt,Virement bancaire,2018-10-01,Zineb,Marrakech-Safi,Safi,October,2018,True
+M-10423,216,50,4,Clothing,Stole,Paiement à la livraison,2018-10-29,Mustapha,Souss-Massa,Tiznit,October,2018,True
+M-10424,215,-30,2,Clothing,Saree,Paiement à la livraison,2018-03-22,Hassan,Tanger-Tétouan-Al Hoceima,Tanger,March,2018,False
+M-10425,43,8,3,Clothing,Leggings,Paiement à la livraison,2018-01-05,Rachid,Rabat-Salé-Kénitra,Rabat,January,2018,True
+M-10426,136,-33,5,Clothing,Saree,Paiement à la livraison,2018-01-05,Fatima,Marrakech-Safi,Safi,January,2018,False
+M-10427,59,-30,3,Clothing,Leggings,Carte de débit,2018-07-11,Ahmed,Casablanca-Settat,Berrechid,July,2018,False
+M-10428,213,4,14,Clothing,Shirt,Paiement à la livraison,2018-08-03,Youssef,Tanger-Tétouan-Al Hoceima,Al Hoceima,August,2018,True
+M-10429,59,21,2,Clothing,Stole,Carte de débit,2018-08-27,Omar,Béni Mellal-Khénifra,Khénifra,August,2018,True
+M-10430,55,3,3,Clothing,T-shirt,Paiement à la livraison,2018-11-22,Amina,Tanger-Tétouan-Al Hoceima,Tanger,November,2018,True
+M-10431,294,62,9,Clothing,T-shirt,Paiement en plusieurs fois,2018-11-24,Youssef,Casablanca-Settat,Casablanca,November,2018,True
+M-10432,210,62,2,Electronics,Phones,Paiement à la livraison,2018-12-30,Zineb,Souss-Massa,Inezgane,December,2018,True
+M-10433,59,24,6,Clothing,Kurti,Carte de débit,2018-03-21,Mustapha,Casablanca-Settat,Casablanca,March,2018,True
+M-10434,396,-31,9,Clothing,Saree,Paiement à la livraison,2018-04-23,Laila,Souss-Massa,Tiznit,April,2018,False
+M-10435,284,45,2,Furniture,Bookcases,Paiement en plusieurs fois,2018-01-06,Fatima,Rabat-Salé-Kénitra,Kénitra,January,2018,True
+M-10436,276,52,5,Clothing,Saree,Paiement en plusieurs fois,2018-03-04,Karim,Rabat-Salé-Kénitra,Kénitra,March,2018,True
+M-10437,23,2,2,Clothing,Skirt,Virement bancaire,2018-03-17,Khadija,Tanger-Tétouan-Al Hoceima,Tétouan,March,2018,True
+M-10438,209,-63,4,Electronics,Electronic Games,Paiement à la livraison,2018-02-20,Karim,Casablanca-Settat,Mohammedia,February,2018,False
+M-10439,50,-28,5,Furniture,Furnishings,Paiement à la livraison,2018-01-19,Sara,Souss-Massa,Inezgane,January,2018,False
+M-10440,57,27,2,Clothing,Shirt,Paiement à la livraison,2018-12-26,Ahmed,Rabat-Salé-Kénitra,Salé,December,2018,True
+M-10441,276,-21,2,Electronics,Phones,Paiement en plusieurs fois,2018-11-16,Nadia,Fès-Meknès,Taza,November,2018,False
+M-10442,268,6,2,Furniture,Bookcases,Virement bancaire,2018-04-06,Karim,Béni Mellal-Khénifra,Kasba Tadla,April,2018,True
+M-10443,269,111,3,Clothing,Trousers,Paiement en plusieurs fois,2018-09-08,Sara,Marrakech-Safi,Marrakech,September,2018,True
+M-10444,209,2,1,Clothing,Saree,Paiement à la livraison,2018-02-04,Omar,Béni Mellal-Khénifra,Khénifra,February,2018,True
+M-10445,60,-12,4,Clothing,Hankerchief,Carte de débit,2018-03-15,Sara,Souss-Massa,Inezgane,March,2018,False
+M-10446,269,-86,2,Electronics,Electronic Games,Paiement en plusieurs fois,2018-07-17,Amina,Béni Mellal-Khénifra,Kasba Tadla,July,2018,False
+M-10447,208,-25,2,Clothing,Saree,Paiement à la livraison,2018-09-09,Hassan,Marrakech-Safi,Safi,September,2018,False
+M-10448,27,2,2,Clothing,Leggings,Virement bancaire,2018-02-22,Karim,Fès-Meknès,Meknès,February,2018,True
+M-10449,206,-206,3,Clothing,Saree,Paiement à la livraison,2018-06-30,Mohamed,Casablanca-Settat,Casablanca,June,2018,False
+M-10450,61,8,4,Clothing,Hankerchief,Carte de débit,2018-04-24,Mustapha,Tanger-Tétouan-Al Hoceima,Tétouan,April,2018,True
+M-10451,212,-24,2,Furniture,Chairs,Paiement à la livraison,2018-07-28,Omar,Rabat-Salé-Kénitra,Salé,July,2018,False
+M-10452,262,64,6,Clothing,Saree,Paiement en plusieurs fois,2018-05-03,Nadia,Marrakech-Safi,Safi,May,2018,True
+M-10453,204,276,3,Furniture,Bookcases,Paiement à la livraison,2018-09-23,Rachid,Béni Mellal-Khénifra,Khénifra,September,2018,True
+M-10454,59,-46,7,Clothing,T-shirt,Virement bancaire,2018-07-01,Ahmed,Souss-Massa,Inezgane,July,2018,False
+M-10455,199,-18,2,Clothing,Saree,Paiement à la livraison,2018-12-15,Khadija,Casablanca-Settat,Mohammedia,December,2018,False
+M-10456,59,6,1,Electronics,Accessories,Virement bancaire,2018-09-07,Ahmed,Rabat-Salé-Kénitra,Kénitra,September,2018,True
+M-10457,45,9,3,Clothing,Leggings,Virement bancaire,2018-02-28,Zineb,Rabat-Salé-Kénitra,Salé,February,2018,True
+M-10458,211,19,8,Clothing,Stole,Paiement à la livraison,2018-10-10,Youssef,Casablanca-Settat,Casablanca,October,2018,True
+M-10459,65,-16,2,Electronics,Phones,Carte de débit,2018-10-18,Salma,Fès-Meknès,Taza,October,2018,False
+M-10460,25,0,4,Clothing,Skirt,Virement bancaire,2018-03-21,Fatima,Fès-Meknès,Fès,March,2018,False
+M-10461,196,-7,5,Electronics,Phones,Paiement à la livraison,2018-09-15,Mohamed,Souss-Massa,Tiznit,September,2018,False
+M-10462,261,13,6,Clothing,Shirt,Carte bancaire,2018-03-04,Zineb,Tanger-Tétouan-Al Hoceima,Tétouan,March,2018,True
+M-10463,195,-117,5,Electronics,Phones,Paiement à la livraison,2018-06-15,Mustapha,Casablanca-Settat,Casablanca,June,2018,False
+M-10464,192,-146,3,Clothing,Saree,Paiement à la livraison,2018-07-01,Mohamed,Béni Mellal-Khénifra,Béni Mellal,July,2018,False
+M-10465,189,87,7,Clothing,Stole,Paiement à la livraison,2018-07-31,Fatima,Casablanca-Settat,Mohammedia,July,2018,True
+M-10466,32,2,2,Clothing,Kurti,Virement bancaire,2018-07-15,Amina,Marrakech-Safi,Safi,July,2018,True
+M-10467,188,13,7,Clothing,Shirt,Paiement à la livraison,2018-12-11,Amina,Casablanca-Settat,Mohammedia,December,2018,True
+M-10468,73,-25,3,Clothing,Saree,Paiement à la livraison,2018-07-12,Amina,Souss-Massa,Inezgane,July,2018,False
+M-10469,259,47,5,Clothing,Hankerchief,Carte bancaire,2018-02-13,Mohamed,Béni Mellal-Khénifra,Kasba Tadla,February,2018,True
+M-10470,187,-15,3,Clothing,Trousers,Paiement à la livraison,2018-03-02,Youssef,Rabat-Salé-Kénitra,Salé,March,2018,False
+M-10471,26,11,2,Clothing,Hankerchief,Virement bancaire,2018-05-05,Ahmed,Casablanca-Settat,Casablanca,May,2018,True
+M-10472,185,-26,6,Furniture,Chairs,Paiement à la livraison,2018-05-14,Mohamed,Béni Mellal-Khénifra,Khénifra,May,2018,False
+M-10473,248,8,2,Clothing,Saree,Carte bancaire,2018-05-28,Sara,Casablanca-Settat,Berrechid,May,2018,True
+M-10474,67,9,4,Clothing,Leggings,Carte de débit,2018-04-22,Nadia,Rabat-Salé-Kénitra,Rabat,April,2018,True
+M-10475,248,-70,3,Furniture,Chairs,Carte bancaire,2018-11-28,Salma,Souss-Massa,Tiznit,November,2018,False
+M-10476,246,61,2,Furniture,Bookcases,Carte bancaire,2018-04-27,Sara,Marrakech-Safi,Essaouira,April,2018,True
+M-10477,179,-25,5,Clothing,Kurti,Paiement à la livraison,2018-11-01,Zineb,Tanger-Tétouan-Al Hoceima,Tétouan,November,2018,False
+M-10478,176,-28,5,Furniture,Furnishings,Paiement à la livraison,2018-01-27,Youssef,Marrakech-Safi,Safi,January,2018,False
+M-10479,176,-13,5,Furniture,Furnishings,Paiement à la livraison,2018-02-13,Salma,Souss-Massa,Tiznit,February,2018,False
+M-10480,68,-62,2,Clothing,Trousers,Carte de débit,2018-02-20,Youssef,Souss-Massa,Inezgane,February,2018,False
+M-10481,176,37,6,Electronics,Accessories,Paiement à la livraison,2018-03-19,Youssef,Fès-Meknès,Taza,March,2018,True
+M-10482,88,11,7,Clothing,Hankerchief,Virement bancaire,2018-05-01,Hassan,Béni Mellal-Khénifra,Khénifra,May,2018,True
+M-10483,68,20,5,Clothing,Hankerchief,Carte de débit,2018-06-02,Ahmed,Fès-Meknès,Fès,June,2018,True
+M-10484,231,99,2,Electronics,Electronic Games,Carte bancaire,2018-08-23,Amina,Marrakech-Safi,Marrakech,August,2018,True
+M-10485,62,8,2,Clothing,T-shirt,Virement bancaire,2018-03-12,Salma,Fès-Meknès,Fès,March,2018,True
+M-10486,175,77,3,Clothing,Saree,Paiement à la livraison,2018-04-25,Amina,Rabat-Salé-Kénitra,Kénitra,April,2018,True
+M-10487,71,4,5,Clothing,Leggings,Carte de débit,2018-03-22,Amina,Béni Mellal-Khénifra,Khénifra,March,2018,True
+M-10488,174,-70,3,Electronics,Accessories,Paiement à la livraison,2018-05-28,Rachid,Tanger-Tétouan-Al Hoceima,Tétouan,May,2018,False
+M-10489,173,69,3,Furniture,Chairs,Paiement à la livraison,2018-01-21,Nadia,Tanger-Tétouan-Al Hoceima,Tanger,January,2018,True
+M-10490,171,2,2,Electronics,Electronic Games,Paiement à la livraison,2018-07-27,Laila,Tanger-Tétouan-Al Hoceima,Tanger,July,2018,True
+M-10491,268,-25,3,Clothing,Saree,Paiement à la livraison,2018-10-29,Hassan,Béni Mellal-Khénifra,Kasba Tadla,October,2018,False
+M-10492,71,32,3,Clothing,Saree,Carte de débit,2018-09-15,Mohamed,Souss-Massa,Tiznit,September,2018,True
+M-10493,29,10,4,Clothing,Hankerchief,Virement bancaire,2018-01-29,Omar,Souss-Massa,Inezgane,January,2018,True
+M-10494,65,17,2,Clothing,T-shirt,Virement bancaire,2018-09-21,Mohamed,Béni Mellal-Khénifra,Kasba Tadla,September,2018,True
+M-10495,72,-46,7,Clothing,Kurti,Carte de débit,2018-08-03,Zineb,Tanger-Tétouan-Al Hoceima,Tétouan,August,2018,False
+M-10496,168,-51,2,Furniture,Bookcases,Paiement à la livraison,2018-03-26,Mohamed,Marrakech-Safi,Marrakech,March,2018,False
+M-10497,165,30,3,Clothing,Stole,Paiement à la livraison,2018-07-01,Khadija,Rabat-Salé-Kénitra,Rabat,July,2018,True
+M-10498,74,-59,2,Electronics,Accessories,Carte de débit,2018-08-22,Omar,Béni Mellal-Khénifra,Kasba Tadla,August,2018,False
+M-10499,89,17,2,Clothing,Stole,Virement bancaire,2018-03-28,Nadia,Souss-Massa,Tiznit,March,2018,True
